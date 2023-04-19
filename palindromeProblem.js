@@ -17,7 +17,7 @@ while (start <= end) {
 }
 
 if (flag) {
-  console.log(str," is a palindrome.");
+  console.log(str," is a palindrome");
 } else {
   console.log(str," is not a palindrome.");
 }
